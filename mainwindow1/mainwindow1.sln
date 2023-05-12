@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainwindow1", "mainwindow1.vcxproj", "{393F49DA-71C9-459A-857E-4FC1F1D19D7B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Imageprocessor1", "..\Imageprocessor1\Imageprocessor1.vdproj", "{EADA2CCD-5C62-4703-BD7D-06F5C01EAF55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393F49DA-71C9-459A-857E-4FC1F1D19D7B}.Debug|x64.ActiveCfg = Debug|x64
+		{393F49DA-71C9-459A-857E-4FC1F1D19D7B}.Debug|x64.Build.0 = Debug|x64
+		{393F49DA-71C9-459A-857E-4FC1F1D19D7B}.Release|x64.ActiveCfg = Release|x64
+		{393F49DA-71C9-459A-857E-4FC1F1D19D7B}.Release|x64.Build.0 = Release|x64
+		{EADA2CCD-5C62-4703-BD7D-06F5C01EAF55}.Debug|x64.ActiveCfg = Debug
+		{EADA2CCD-5C62-4703-BD7D-06F5C01EAF55}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3982C6D7-8BE0-449C-B5A7-37DDA9588AF8}
+	EndGlobalSection
+EndGlobal

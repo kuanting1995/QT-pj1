@@ -1,0 +1,5 @@
+﻿  moc mainwindow1.h
+  mainwindow1.cpp
+  main.cpp
+E:\QT project\mainwindow1\mainwindow1.h(5,19): error C2871: 'cv': 此名稱的命名空間不存在 (正在編譯原始程式檔 mainwindow1.cpp)
+E:\QT project\mainwindow1\mainwindow1.h(5,19): error C2871: 'cv': 此名稱的命名空間不存在 (正在編譯原始程式檔 main.cpp)
