@@ -5,3 +5,5 @@
 >點選mainwindow1.exe 開始使用
 
 2.觀看Youtube DEMO:https://youtu.be/BsmUARPW1Og
+
+3.相關文件:https://docs.google.com/document/d/1qKzZmcHEllgqGtMDfemnB9nXq_DfCFYj_94VTaks4jw/edit
