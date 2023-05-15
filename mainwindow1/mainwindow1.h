@@ -45,7 +45,7 @@ private slots:
 
 private:
     QImage MatToQImage(const cv::Mat& mat);				// 將MAT物件(openCV)轉QImage類型(qt)
-    void display_MatInQT(QLabel* label, cv::Mat mat);	// MAT对象 QT显示 label指標指向Qlabel和 Mat, 轉化Mat物件成Qimage(讓Qt介面可顯示)
+    void display_MatInQT(QLabel* label, cv::Mat mat);	// MAT對象 QT顯示 label指標指向Qlabel和 Mat, 轉化Mat物件成Qimage(讓Qt介面可顯示)
     QImage MatToQImage1(const cv::Mat& mat);			
     void display_MatInQT1(QLabel* label_2, cv::Mat mat);	
 private:
@@ -55,5 +55,5 @@ private:
     Mat mat_Gaussian; //高斯模糊圖像
     Mat gray; //灰階圖像
     Mat binary; // 二值化圖像
-    Mat huff; // 二值化圖像
+    Mat huff; // 霍夫找圓圖像
 };
