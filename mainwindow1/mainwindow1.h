@@ -23,7 +23,7 @@ public:
     ~mainwindow1();
 
 private slots:
-    void on_statement_triggered();
+    void on_statement_triggered(); //介面預設呈現
 
     void on_pushButton_clicked(); //初級開圖檔
 
