@@ -64,7 +64,6 @@ void mainwindow1::on_pushButton_clicked()
     if (image.data) {
         ui->pushButton_2->setEnabled(true);
         ui->pushButton_3->setEnabled(true);
-        ui->pushButton_4->setEnabled(true);
         // 通過 lable 方式顯示圖片
         display_MatInQT(ui->label, image);
     }
